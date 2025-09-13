@@ -26,9 +26,6 @@ A smart, interactive platform for conducting mock interviews using AI - built to
 
 ## 📸 Screenshots
 
-#### Mock Interview in Progress
-![Interview](Screenshots/PrepIQ1.png)
-
 #### Feedback & Analysis
 ![Feedback](Screenshots/PrepIQ2.png)
 
@@ -54,4 +51,4 @@ npm run dev
 
 ## Author
 
-Made with ❤️ by Varad Manegopale
+Made with ❤️ by Apoorva Kadam
